@@ -135,4 +135,5 @@ A lot needs to be done:
 * Handle file uploads via options
 * Modify handling stylesheet object
 * A better way to append and handle `save` and `remove` buttons
+* **References to default fonts**
     
